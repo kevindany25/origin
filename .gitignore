@@ -1,0 +1,9 @@
+password.txt
+
+*.class
+# Estos son comentarios en el archivo .gitignore
+log/*.log
+node_modules/
+
+librerias/
+!librerias/archivo_*.md
